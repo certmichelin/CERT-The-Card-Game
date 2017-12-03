@@ -10,7 +10,7 @@ This game has been made to help people understand IT security through a fun and 
     * All cards are a bit oversized, but don't worry, it's just to avoid print fault.
     * The rules of the game are all explained on the last 3 cards.
      
-  - **A step by step tutorial to print your own copy of the game.**
+  - **A step by step tutorial to print your own copy of the game (located in the wiki).**
  
 Remember that this game has a non-profit purpose and cannot be selled. By downloading it, you accept to not alter it, and use it only for your own security awareness program. 
 
